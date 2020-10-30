@@ -12,6 +12,10 @@
   display: none;
 }
 
+.parent #tag-4 {
+  display: none;
+}
+
 .parent #tag-5.slick {
   display: none;
 }
